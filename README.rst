@@ -3,9 +3,9 @@ f5-common-python
 
 |Build Status| |Docs Build Status| |slack badge|
 
-NO LONGER UNDER ACTIVE DEVELOPMENT
+Open fork of f5-common-python
 ----------------------------------
-NOTICE: This project is no longer under active development. F5 may still use
+NOTICE: Original project is no longer under active development. F5 may still use
 internally for other project(s) but is no longer maintaining it publicly.
 
 Introduction
