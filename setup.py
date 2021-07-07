@@ -28,13 +28,13 @@ else:
     required = []
 
 setup(
-    name='f5-sdk',
-    description='F5 Networks Python SDK',
+    name='f5-common-sdk',
+    description='F5 Networks Python SDK fork with improvements',
     license='Apache License, Version 2.0',
     version=f5.__version__,
     author='F5 Networks',
-    author_email='f5_common_python@f5.com',
-    url='https://github.com/F5Networks/f5-common-python',
+    author_email='anpawspro@gmail.com',
+    url='https://github.com/Blackwoodseller/f5-common-sdk',
     keywords=['F5', 'sdk', 'api', 'icontrol', 'bigip', 'api', 'ltm'],
     install_requires=required,
     packages=find_packages(
